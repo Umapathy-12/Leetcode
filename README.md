@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Umapathy-12/Leetcode/tree/master/0258-add-digits) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Umapathy-12/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
