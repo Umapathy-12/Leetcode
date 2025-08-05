@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Umapathy-12/Leetcode/tree/master/0001-two-sum) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Umapathy-12/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/Umapathy-12/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Umapathy-12/Leetcode/tree/master/0258-add-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Umapathy-12/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Umapathy-12/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
