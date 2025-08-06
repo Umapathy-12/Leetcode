@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Umapathy-12/Leetcode/tree/master/0001-two-sum) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Umapathy-12/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Umapathy-12/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/Umapathy-12/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Umapathy-12/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/Umapathy-12/Leetcode/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Umapathy-12/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Umapathy-12/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Queue
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Umapathy-12/Leetcode/tree/master/3226-minimum-number-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Umapathy-12/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
